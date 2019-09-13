@@ -1,2 +1,2 @@
-# cleantalk_parser
-cleantalk.org blacklisted emails parser
+# CleanTalk parser 
+CleanTalk blacklisted emails fetcher (https://cleantalk.org/)
